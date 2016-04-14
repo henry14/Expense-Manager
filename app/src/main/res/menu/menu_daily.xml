@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.grameenfoundation.expensemanager.DailyActivity">
+
+    <item android:id="@+id/date_choice"
+        android:title="@string/date_choice"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.ActionMenuView"/>
+
+</menu>

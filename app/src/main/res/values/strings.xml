@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="save_btn">Save</string>
+    <string name="item_txt">Item</string>
+    <string name="cost_txt">Cost</string>
+
+    <string name="title_activity_daily">DailyActivity</string>
+    <string name="date_choice">Choose date</string>
+    <string name="nav_open">Choose date</string>
+    <string name="nav_closed">Choose date</string>
+
+    <array name="expense_array">
+        <item>Annual Plan</item>
+        <item>Monthly Budget</item>
+        <item>Daily Expenditure</item>
+        <item>Monthly Expenditure</item>
+    </array>
+
+</resources>
